@@ -13,7 +13,7 @@ public class TestaListaLigada {
 		l1.remove(3);
 		System.out.println(l1);
 		System.out.println(l1.size());
-		System.out.println("\n STRING");
+		System.out.println("\nSTRING");
 		ListaLigada<String> l2 = new ListaLigada<String>();
 		l2.add("alpha");
 		l2.add("beta");
